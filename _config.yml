@@ -3,11 +3,4 @@ description: "Portfolio"
 author: Byron Theobald
 baseurl: "/"
 
-remote_theme: "mmistakes/minimal-mistakes"
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+remote_theme: "pages-themes/minimal"
