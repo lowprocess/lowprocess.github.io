@@ -3,4 +3,4 @@ description: "Portfolio"
 author: Byron Theobald
 baseurl: "/"
 
-remote_theme: arnolds/pineapple
+remote_theme: "mmistakes/minimal-mistakes"
