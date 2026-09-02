@@ -3,4 +3,4 @@ description: "Portfolio"
 author: Byron Theobald
 baseurl: "/"
 
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: arnolds/pineapple
